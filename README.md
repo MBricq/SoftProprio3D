@@ -10,10 +10,7 @@ This repository provides the real-time 3D reconstruction pipeline for an under-a
 
 By running this code, you can visualize the live 3D reconstruction of the soft robot's pose based on the sensor readings in a window such as the one shown below. The visualization includes the soft robot's segments, the base, and the tip, along with real-time updates of the sensor data.
 
-<video width="100%" controls>
-  <source src="resources/live_demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/160d19d6-400b-4b85-ac19-2204bc38b506
 
 A video of the complete testbench is available on: [SoftProprio3D Live Demo](https://mbricq.github.io/projects/biorob-2026/).
 
