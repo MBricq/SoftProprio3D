@@ -12,7 +12,7 @@ By running this code, you can visualize the live 3D reconstruction of the soft r
 
 https://github.com/user-attachments/assets/160d19d6-400b-4b85-ac19-2204bc38b506
 
-A video of the complete testbench is available on: [SoftProprio3D Live Demo](https://mbricq.github.io/projects/biorob-2026/).
+A video of the complete testbench is available on: [SoftProprio3D Live Demo](https://marinbricq.com/projects/biorob-2026/).
 
 ## Hardware Architecture
 
